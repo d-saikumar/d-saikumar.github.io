@@ -1,0 +1,15 @@
+title: Sai Kumar # your name (or website title) here
+logo: "/images/profile.jpeg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Pursuing MBA in Big Data Analytics(BDA) from Goa Institute of Management with a keen interest in Data Science, Machine Learning, and NLP. Demonstrated expertise through internships at Tiger Analytics and Merck & Co.
+  <br><br>
+  Ranked in top 10% of BDA batch in Goa Institute of Management.
+  <br><br>
+  <a href="https://www.linkedin.com/in/sai-kumar-99ba9b88/">View my LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
