@@ -1,3 +1,3 @@
-## Some of the Projects in data science, machine learning and NLP
+## Elevating Excellence: Showcasing Data Science, Machine Learning, and NLP Projects
 
 ---
