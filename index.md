@@ -10,3 +10,10 @@ StockPriceTomorrow is a Python script utilizing LSTM models and historical stock
 [View code on Github](https://github.com/d-saikumar/StockPriceTomorrow)
 
 ---
+###Revolutionizing Data Analysis: Unleashing the Power of Automation with OpenAI GPT-3
+
+This code highlights the exciting concept of automating data analysis. With GPT-3's ability to understand and process data, it's a game-changer for professionals looking to extract meaningful information from their datasets with ease and precision. By combining the OpenAI GPT-3 language model with Python's Pandas library, it streamlines the entire data analysis process. It sets up the API key, reads data, formulates a request for analysis, and then lets GPT-3 generate detailed insights automatically. This automation empowers data scientists and analysts to quickly derive valuable information from their datasets, and also allows analysts to focus on more complex and creative aspects of their work.
+
+[View code on Github](https://github.com/d-saikumar/GPT3DataAnalyzerBot)
+
+--
