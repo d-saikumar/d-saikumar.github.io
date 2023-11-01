@@ -17,3 +17,11 @@ This code highlights the exciting concept of automating data analysis. By combin
 [View code on Github](https://github.com/d-saikumar/GPT3DataAnalyzerBot)
 
 ---
+
+### Aggression Detection with Multinomial Naive Bayes
+
+Text classification using Multinomial Naive Bayes for aggression detection. The code preprocesses and classifies text as 'Overtly Aggressive,' 'Covertly Aggressive,' or 'Non-aggressive.' It employs feature selection and cross-validation for model tuning, with an interactive input option to test custom text. A practical solution for automated aggression identification in social media and text data.
+
+[View code on Github](https://github.com/d-saikumar/AggressionDetection)
+
+---
