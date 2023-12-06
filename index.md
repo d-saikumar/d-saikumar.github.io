@@ -1,6 +1,21 @@
 ## Elevating Excellence: Showcasing Data Science, Machine Learning, and NLP Projects
 
 ---
+### Neural Style Transfer using TensorFlow
+
+Neural Style Transfer with TensorFlow is a Python script leveraging the VGG19 model for artistic image transformation. This technique combines the content of one image with the style of another, creating visually striking results. 
+
+<img src="images/overview.JPG?raw=true" />
+
+The script extracts features using deep neural networks, applies content and style representations, and optimizes an image iteratively to minimize total loss. The project showcases intermediate stylized images and saves the final result. 
+
+<img src="images/iterations progress.png?raw=true" />
+
+With applications in art and design, this implementation offers a creative approach to image manipulation. The script acknowledges inspiration from Gatys et al.'s seminal work on Neural Style Transfer.
+
+[View code on Github](https://github.com/d-saikumar/NeuralStyleTransfer)
+
+---
 ### StockPriceTomorrow: Unlocking the Future of Stock Prediction with LSTM
 
 StockPriceTomorrow is a Python script utilizing LSTM models and historical stock data to predict the next day's stock price for Nifty 50 companies. It's presented as a Streamlit web app with training and testing metrics, making it an educational tool, not for financial decisions.
