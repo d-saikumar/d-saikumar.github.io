@@ -52,3 +52,16 @@ Developed a dynamic Streamlit chatbot app utilizing natural language processing.
 [View code on Github](https://github.com/d-saikumar/Chatbot)
 
 ---
+### OptiSheet-Plywood-Cutter: 
+
+I developed a Python-based optimization tool to significantly reduce plywood wastage for a local business in Hindupur town of Andhra Pradesh, leading to cost savings and environmental benefits. This reduced 30-40% of the wastage in plywood cutting. 
+Users simply input main sheet and part sizes, and receive a cutting layout image for optimal material use.
+<img src="OptiSheet-Plywood-Cutter/Input.JPG?raw=true" />
+
+This tool has the potential to:
+a)	Reduce plywood wastage, leading to substantial cost savings for the business.
+b)	Minimize environmental impact by conserving natural resources.
+c)	Enhance productivity and efficiency in the cutting process.
+d)	This solution can be adapted for similar optimization challenges in other industries.
+[View code on Github](https://github.com/d-saikumar/OptiSheet-Plywood-Cutter)
+
