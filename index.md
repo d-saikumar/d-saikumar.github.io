@@ -79,16 +79,27 @@ This tool has the potential to:
 
 ---
 ## List of Certifications
-•	Certified in “Introduction to SAS and Hadoop” issued by SAS, Nov 2022. [View](https://www.credly.com/badges/00262425-e054-413c-a53a-68dc75d5c4d3/public_url)
+•	Certified in “Introduction to SAS and Hadoop” issued by SAS, Nov 2022 [[View]](https://www.credly.com/badges/00262425-e054-413c-a53a-68dc75d5c4d3/public_url)
+
 •	Certified in “Lean Six Sigma Green Belt” by Grant Thornton, December 2022.
+
 •	Certified in “Supervised Machine Learning: Regression and Classification” by Coursera, 2022.
+
 •	Certified in “Data Analysis with Pandas and Python” by Udemy, 2022.
+
 •	Certified in “Python for Data Science and Machine Learning Bootcamp” by Udemy, 2022.
+
 •	Certified in “SQL for Data Analytics” course on Udemy, 2022.
+
 •	Certified in “Microsoft Power BI“ by Udemy, 2022.
+
 •	Certified in “Learning Excel: Data Analysis” by Linked IN Learning, 2022.
+
 •	Certified in “Blockchain: Beyond the Basics” by Lined IN Learning,2023.
+
 •	Certified in “Foundations of Decentralized Finance” by Liked IN Learning, 2023.
+
 •	Certified in “Using Tableau to Discover Powerful Business Insights” by Linked IN Learning, 2024
+
 
 ---
