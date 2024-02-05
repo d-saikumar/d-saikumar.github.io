@@ -80,17 +80,17 @@ This tool has the potential to:
 ---
 ### AI-Powered Portfolio Optimizer
 
-This project tackles the challenge of building efficient portfolios in dynamic markets. Using Python, we simulate and optimize portfolio creation based on historical data, aiming to maximize returns while minimizing risk. Our web application empowers users with a holistic learning experience.
+This project tackles the challenge of building efficient portfolios in dynamic markets. Using Python, we simulate and optimize portfolio creation based on historical data, aiming to maximize returns while minimizing risk. This web application empowers users with a holistic learning experience.
 
-o	Interactive portfolio construction: Create diversified portfolios across sectors
+•	Interactive portfolio construction: Create diversified portfolios across sectors
 
-o	Automated data acquisition: Eliminate manual data entry with Yahoo Finance integration
+•	Automated data acquisition: Eliminate manual data entry with Yahoo Finance integration
 
-o	Investment guidance: Calculate optimal share purchases based on portfolio weights and investment budgets
+•	Shares: Calculate optimal share purchases based on portfolio weights and investment budgets
 
-o	Benefits: Confident investment decisions, improved investment skills, and optimized returns, all guided by data-driven insights.
+•	Benefits: Confident investment decisions, improved investment skills, and optimized returns, all guided by data-driven insights.
 
-o	[Web Application link:](https://pf-cnstr.streamlit.app/)
+[Click here to Open the Application](https://pf-cnstr.streamlit.app/)
 
 ---
 ## List of Certifications
