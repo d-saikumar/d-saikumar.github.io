@@ -93,13 +93,6 @@ This tool has the potential to:
 
 •	Certified in “Microsoft Power BI“ by Udemy, 2022 [[View]](https://www.udemy.com/certificate/UC-ef28e860-20b7-48a9-ab2a-c80f1ad8d1cd/)
 
-•	Certified in “Learning Excel: Data Analysis” by Linked IN Learning, 2022 [[View]]()
-
-•	Certified in “Blockchain: Beyond the Basics” by Lined IN Learning,2023 [[View]]()
-
-•	Certified in “Foundations of Decentralized Finance” by Liked IN Learning, 2023 [[View]]()
-
-•	Certified in “Using Tableau to Discover Powerful Business Insights” by Linked IN Learning, 2024 [[View]]()
-
+•	Certified in “Learning Excel: Data Analysis” by Linked IN Learning, 2022 [[View]](https://www.linkedin.com/learning/certificates/3dc2e5688525ac3d959ef2267498d298fa3758bae33a6b5e2174dccd9dabed03)
 
 ---
