@@ -68,8 +68,11 @@ Output Layout:
 This tool has the potential to:
 
 1) Reduce plywood wastage, leading to substantial cost savings for the business.
+
 2) Minimize environmental impact by conserving natural resources.
+
 3) Enhance productivity and efficiency in the cutting process.
+
 4) This solution can be adapted for similar optimization challenges in other industries.
 
 [View code on Github](https://github.com/d-saikumar/OptiSheet-Plywood-Cutter)
