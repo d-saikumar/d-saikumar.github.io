@@ -78,6 +78,21 @@ This tool has the potential to:
 [View code on Github](https://github.com/d-saikumar/OptiSheet-Plywood-Cutter)
 
 ---
+### AI-Powered Portfolio Optimizer
+
+This project tackles the challenge of building efficient portfolios in dynamic markets. Using Python, we simulate and optimize portfolio creation based on historical data, aiming to maximize returns while minimizing risk. Our web application empowers users with a holistic learning experience.
+
+o	Interactive portfolio construction: Create diversified portfolios across sectors
+
+o	Automated data acquisition: Eliminate manual data entry with Yahoo Finance integration
+
+o	Investment guidance: Calculate optimal share purchases based on portfolio weights and investment budgets
+
+o	Benefits: Confident investment decisions, improved investment skills, and optimized returns, all guided by data-driven insights.
+
+o	[Web Application link:](https://pf-cnstr.streamlit.app/)
+
+---
 ## List of Certifications
 •	Certified in “Introduction to SAS and Hadoop” issued by SAS, Nov 2022 [[View]](https://www.credly.com/badges/00262425-e054-413c-a53a-68dc75d5c4d3/public_url)
 
