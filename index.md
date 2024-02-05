@@ -42,3 +42,13 @@ Text classification using Multinomial Naive Bayes for aggression detection. The 
 [View code on Github](https://github.com/d-saikumar/AggressionDetection)
 
 ---
+
+### Turn Data into Dialogue - Craft Chatbots in a Snap
+
+Developed a dynamic Streamlit chatbot app utilizing natural language processing. Seamlessly integrating with a backend Python script, the app engages users in meaningful conversations, answering questions and providing insights. The responsive interface showcases the power of machine learning in a user-friendly manner, offering a conversational AI experience for data-related queries. Still I am working on improving the efficiency of this chatbot.
+
+[Click here to Open the Application](https://simplechatbot.streamlit.app/)
+
+[View code on Github](https://github.com/d-saikumar/Chatbot)
+
+---
